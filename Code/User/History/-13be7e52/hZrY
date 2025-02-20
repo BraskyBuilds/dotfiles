@@ -1,0 +1,4 @@
+Host localhost-root
+  HostName localhost
+  User root
+  Port 22

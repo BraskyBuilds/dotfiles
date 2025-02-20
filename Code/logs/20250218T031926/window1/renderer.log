@@ -1,0 +1,27 @@
+2025-02-18 03:19:27.208 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-18 03:19:27.208 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-18 03:19:27.208 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-18 03:19:27.441 [info] Started local extension host with pid 88037.
+2025-02-18 03:19:27.942 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-18 03:19:30.086 [info] [perf] Render performance baseline is 14ms
+2025-02-18 03:19:34.832 [error] [Extension Host] [default] Error sending telemetry FetchError: The operation was aborted
+    at fetch (/home/brasky/.vscode/extensions/github.copilot-1.270.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/brasky/.vscode/extensions/github.copilot-1.270.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at Fce.fetch (/home/brasky/.vscode/extensions/github.copilot-1.270.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ABORT_ERR',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-02-18 03:19:51.069 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-18 03:19:51.318 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-18 03:20:00.887 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-18 03:20:00.917 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-18 03:20:24.940 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-18 03:20:24.982 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-18 03:20:27.223 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-18 03:20:27.273 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-18 03:20:29.323 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-18 03:20:29.363 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings

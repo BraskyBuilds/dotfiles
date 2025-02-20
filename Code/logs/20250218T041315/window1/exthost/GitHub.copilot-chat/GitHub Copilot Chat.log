@@ -1,0 +1,20 @@
+2025-02-18 04:13:16.868 [info] Using the Electron fetcher.
+2025-02-18 04:13:16.868 [info] Initializing Git extension service.
+2025-02-18 04:13:16.868 [info] Successfully activated the vscode.git extension.
+2025-02-18 04:13:16.868 [info] Enablement state of the vscode.git extension: false.
+2025-02-18 04:13:17.673 [info] Logged in as polishvendetta
+2025-02-18 04:13:18.034 [info] Got Copilot token for polishvendetta
+2025-02-18 04:13:18.118 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 04:13:18.118 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-02-18 04:13:18.128 [info] Registering default platform agent...
+2025-02-18 04:13:18.205 [info] Fetched model metadata in 164ms cda8cd66-f674-4df8-926e-d4ca74ee12b7
+2025-02-18 04:13:18.213 [info] activationBlocker from 'languageModelAccess' took for 419ms
+2025-02-18 04:28:18.597 [info] Fetched model metadata in 178ms b91d400e-088b-46c3-b55b-7c566d168087
+2025-02-18 04:38:18.079 [info] Logged in as polishvendetta
+2025-02-18 04:38:18.467 [info] Got Copilot token for polishvendetta
+2025-02-18 04:38:18.485 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 04:53:18.747 [info] Fetched model metadata in 215ms 12a13343-42aa-40d6-a118-7e3d173d75ae
+2025-02-18 05:03:18.514 [info] Logged in as polishvendetta
+2025-02-18 05:03:18.846 [info] Got Copilot token for polishvendetta
+2025-02-18 05:03:18.874 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 05:03:19.053 [info] Fetched model metadata in 176ms 730bd469-10e6-4e2b-bb7a-980d64320268

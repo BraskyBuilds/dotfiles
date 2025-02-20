@@ -1,0 +1,6 @@
+2025/02/19-00:49:10.438 87d Reusing MANIFEST /home/brasky/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/02/19-00:49:10.441 87d Recovering log #45
+2025/02/19-00:49:10.442 87d Reusing old log /home/brasky/.config/google-chrome/Default/Sync Data/LevelDB/000045.log 
+2025/02/19-00:49:10.687 8d5 Level-0 table #49: started
+2025/02/19-00:49:10.688 8d5 Level-0 table #49: 95208 bytes OK
+2025/02/19-00:49:10.689 8d5 Delete type=0 #45

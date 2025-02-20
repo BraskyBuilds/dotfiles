@@ -1,0 +1,19 @@
+/*!
+   * Sizzle CSS Selector Engine v2.3.4
+   * https://sizzlejs.com/
+   *
+   * Copyright JS Foundation and other contributors
+   * Released under the MIT license
+   * https://js.foundation/
+   *
+   * Date: 2019-04-08
+   */
+
+/*!
+   * The buffer module from node.js, for the browser.
+   *
+   * @author   Feross Aboukhadijeh <http://feross.org>
+   * @license  MIT
+   */
+
+/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
