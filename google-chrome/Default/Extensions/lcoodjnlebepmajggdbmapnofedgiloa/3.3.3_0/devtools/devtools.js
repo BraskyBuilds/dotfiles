@@ -1,1 +1,0 @@
-chrome.devtools.panels.create("AQA","icon.png","devtools/panel.html",(function(){}));
