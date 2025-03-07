@@ -15,7 +15,9 @@
         "workspaces": {
             "file:///home/brasky/.config/hypr": "__default__profile__",
             "file:///etc/nixos": "__default__profile__",
-            "file:///home/brasky/.config": "__default__profile__"
+            "file:///home/brasky/.config": "__default__profile__",
+            "file:///home/brasky/docker": "__default__profile__",
+            "file:///mnt/backlot/media/seedbox": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -79,6 +81,17 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///etc/nixos",
+                                        "path": "/etc/nixos",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/etc/nixos"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/brasky/.config",
                                         "path": "/home/brasky/.config",
                                         "scheme": "file"
@@ -96,17 +109,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/.config/hypr"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///etc/nixos",
-                                        "path": "/etc/nixos",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/etc/nixos"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -178,6 +180,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -816,8 +825,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1748,9 +1756,10 @@
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
-            "titleBarHeight": 0,
+            "titleBarHeight": 35,
             "activityBarWidth": 48,
             "sideBarWidth": 300,
+            "auxiliarySideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -1761,12 +1770,14 @@
             "backupPath": "/home/brasky/.config/Code/Backups/e534f6e68ffd7ffbeb02779373ecdf6a",
             "uiState": {
                 "mode": 1,
-                "x": 3847,
+                "x": 2582,
                 "y": 67,
-                "width": 1251,
+                "width": 2516,
                 "height": 1351
             }
         },
         "openedWindows": []
-    }
+    },
+    "window.titleBarStyleOverride": "custom",
+    "windowControlHeight": 35
 }

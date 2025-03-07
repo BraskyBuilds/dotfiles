@@ -1,0 +1,33 @@
+google-chrome/
+# Ignore VS Code cache and temporary files
+Code/CachedData/
+Code/CachedExtensions/
+Code/Cache/
+Code/DawnGraphiteCache/
+Code/DawnWebGPUCache/
+Code/GPUCache/
+Code/Crashpad/
+Code/Service Worker/
+Code/logs/
+Code/User/workspaceStorage/
+Code/User/globalStorage/
+Code/User/workspaceStorage/
+Code/User/History/
+
+# Keep VS Code configuration files
+!Code/User/settings.json
+!Code/User/keybindings.json
+!Code/User/snippets/
+!Code/User/tasks.json
+!Code/User/extensions.json
+
+# Ignore VS Code extensions cache but keep extension list
+Code/extensions/
+!Code/User/extensions.json
+
+# Ignore backup files but keep settings
+Code/Backups/
+
+# Ignore BTOP Log Files
+btop/*.log
+btop/*.log.*

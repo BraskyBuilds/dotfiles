@@ -1,0 +1,103 @@
+Config Version=1
+First Time=false
+Version=2.8.1
+
+[Archives]
+Supported Packers=tar,gzip,bzip2,lzma,xz,cpio
+
+[Dependencies]
+bzip2=/run/current-system/sw/bin/bzip2
+checksum utility=/run/current-system/sw/bin/md5sum
+cpio=/run/current-system/sw/bin/cpio
+gzip=/run/current-system/sw/bin/gzip
+lzma=/run/current-system/sw/bin/lzma
+md5sum=/run/current-system/sw/bin/md5sum
+mount=/run/wrappers/bin/mount
+sha1sum=/run/current-system/sw/bin/sha1sum
+sha224sum=/run/current-system/sw/bin/sha224sum
+sha256sum=/run/current-system/sw/bin/sha256sum
+sha384sum=/run/current-system/sw/bin/sha384sum
+sha512sum=/run/current-system/sw/bin/sha512sum
+tar=/run/current-system/sw/bin/tar
+umount=/run/wrappers/bin/umount
+xz=/run/current-system/sw/bin/xz
+
+[General]
+Terminal=ghostty --separate
+
+[Konfigurator]
+Window Height=697
+Window Maximized=true
+Window Width=640
+
+[Private]
+PopularUrls=file:///mnt/backlot/media/seedbox/Firefly.S01.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX/,file:///mnt/backlot/media/seedbox/The Outlaw Josey Wales 1976 1080p Blu-ray Remux AVC DTS-HD MA 5.1 - KRaLiMaRKo/,file:///mnt/backlot/media/seedbox/Mobile.Suit.Gundam.Iron-Blooded.Orphans.S01.1080p.BluRay.REMUX.AVC.Dual-Audio.FLAC.2.0-NAN0/,file:///mnt/backlot/media/seedbox/,file:///mnt/backlot/media/seedbox/The.Sound.of.Music.1965.BluRay.1080p.DTS-HD.MA.7.1.AVC.REMUX-FraMeSToR/,file:///mnt/backlot/media/seedbox/The.Good.the.Bad.and.the.Ugly.1966.Theatrical.UHD.BluRay.2160p.DTS-HD.MA.5.1.SDR.HEVC.REMUX-FraMeSToR/,file:///mnt/backlot/media/seedbox/The.Expanse.S05.2160p.AMZN.WEB-DL.DDP5.1.HDR10Plus.HEVC-GNOME/,file:///mnt/backlot/media/seedbox/The.Expanse.S06.2160p.AMZN.WEB-DL.DDP5.1.HDR10Plus.HEVC-GNOME/,file:///mnt/backlot/media/,file:///mnt/backlot/media/seedbox/The.Expanse.S04.HDR.2160p.WEB.h265-SKGTV/,file:///mnt/backlot/,file:///mnt/backlot/media/seedbox/The.Expanse.S03.2160p.AMZN.WEB-DL.DTS-HD.MA.5.1.HDR.HEVC-SAFETY/,file:///mnt/backlot/media/seedbox/The.Expanse.S02.2160p.AMZN.WEB-DL.DTS-HD.MA.5.1.HDR.HEVC-SAFETY/,file:///mnt/backlot/media/seedbox/The.Expanse.S01.2160p.AMZN.WEB-DL.DTS-HD.MA.5.1.HDR.HEVC-SAFETY/,file:///mnt/,file:///home/brasky/,file:///
+PopularUrlsRank=19,15,9,8,5,3,0,0,0,0,0,0,0,0,0,0,0
+Start Position=0,0
+Start Size=1251,669
+cmdline history=
+
+[Startup]
+Left Side Is Active=false
+Show Cmd Line=false
+Show FN Keys=true
+Show Terminal Emulator=false
+Show status bar=true
+Splitter Sizes=624,623
+State=\x00\x00\x00\xff\x00\x00\x00\x00\xfd\x00\x00\x00\x00\x00\x00\x04\xe3\x00\x00\x02S\x00\x00\x00\x04\x00\x00\x00\x04\x00\x00\x00\x08\x00\x00\x00\x08\xfc\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00\x16\x00m\x00a\x00i\x00n\x00T\x00o\x00o\x00l\x00B\x00a\x00r\x01\x00\x00\x00\x00\xff\xff\xff\xff\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00j\x00o\x00b\x00T\x00o\x00o\x00l\x00B\x00a\x00r\x01\x00\x00\x02|\xff\xff\xff\xff\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x1c\x00a\x00c\x00t\x00i\x00o\x00n\x00s\x00T\x00o\x00o\x00l\x00B\x00a\x00r\x01\x00\x00\x03-\xff\xff\xff\xff\x00\x00\x00\x00\x00\x00\x00\x00
+Terminal Emulator Splitter Sizes=100,100
+Vertical Mode=false
+
+[Startup][Left Tab Bar]
+ActiveTab=0
+
+[Startup][Left Tab Bar][Tabs][Tab0]
+PinnedUrl=
+Properties=0
+Type=0
+Url=file:///mnt/backlot/media/seedbox
+
+[Startup][Left Tab Bar][Tabs][Tab0][History]
+CurrentIndex=0
+CurrentItems=Serenity.2005.2160p.UHD.BluRay.REMUX.HDR.HEVC.DTS-X-EPSiLON.mkv,Firefly.S01E14.The.Message.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX.mkv,Firefly.S01.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX,The Outlaw Josey Wales 1976 1080p Blu-ray Remux AVC DTS-HD MA 5.1 - KRaLiMaRKo.mkv,The Outlaw Josey Wales 1976 1080p Blu-ray Remux AVC DTS-HD MA 5.1 - KRaLiMaRKo,The.Expanse.S02E13.Caliban's.War.2160p.AMZN.WEB-DL.DTS-HD.MA.5.1.HDR.HEVC-SAFETY.mkv,The.Expanse.S02.2160p.AMZN.WEB-DL.DTS-HD.MA.5.1.HDR.HEVC-SAFETY,The.Expanse.S01E06.Rock.Bottom.2160p.AMZN.WEB-DL.DTS-HD.MA.5.1.HDR.HEVC-SAFETY.mkv,The.Expanse.S01.2160p.AMZN.WEB-DL.DTS-HD.MA.5.1.HDR.HEVC-SAFETY,seedbox,media,backlot,mnt
+Entrys=file:///mnt/backlot/media/seedbox,file:///mnt/backlot/media/seedbox/Firefly.S01.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX,file:///mnt/backlot/media/seedbox,file:///mnt/backlot/media/seedbox/The Outlaw Josey Wales 1976 1080p Blu-ray Remux AVC DTS-HD MA 5.1 - KRaLiMaRKo,file:///mnt/backlot/media/seedbox,file:///mnt/backlot/media/seedbox/The.Expanse.S02.2160p.AMZN.WEB-DL.DTS-HD.MA.5.1.HDR.HEVC-SAFETY,file:///mnt/backlot/media/seedbox,file:///mnt/backlot/media/seedbox/The.Expanse.S01.2160p.AMZN.WEB-DL.DTS-HD.MA.5.1.HDR.HEVC-SAFETY,file:///mnt/backlot/media/seedbox,file:///mnt/backlot/media,file:///mnt/backlot,file:///mnt,file:///
+
+[Startup][Left Tab Bar][Tabs][Tab0][View]
+AutoResizeColumns=true
+Descending Sort Order=0
+Filter=3
+FilterApplysToDirs=false
+IconSize=22
+Saved State=\x00\x00\x00\xff\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\xa8\x07\x00\x00\x00\x06\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\t\x00\x00\x00d\x00\x00\x00\n\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x02`\x00\x00\x00\x0b\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00d\xff\xff\xff\xff\x00\x00\x00\x81\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x018\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x005\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00P\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x83\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00 \x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x03\xe8\x00\x00\x00\x00d
+ShowPreviews=false
+Sort Column=0
+
+[Startup][Right Tab Bar]
+ActiveTab=0
+
+[Startup][Right Tab Bar][Tabs][Tab0]
+PinnedUrl=
+Properties=0
+Type=0
+Url=file:///mnt/backlot/media
+
+[Startup][Right Tab Bar][Tabs][Tab0][History]
+CurrentIndex=0
+CurrentItems=..,media,backlot,mnt,.vscode
+Entrys=file:///mnt/backlot/media,file:///mnt/backlot,file:///mnt,file:///,file:///home/brasky
+
+[Startup][Right Tab Bar][Tabs][Tab0][View]
+AutoResizeColumns=true
+Descending Sort Order=0
+Filter=3
+FilterApplysToDirs=false
+IconSize=22
+Saved State=\x00\x00\x00\xff\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\xa8\x07\x00\x00\x00\x06\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\t\x00\x00\x00d\x00\x00\x00\n\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x02m\x00\x00\x00\x0b\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00d\xff\xff\xff\xff\x00\x00\x00\x81\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x01E\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x005\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00P\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x83\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00 \x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x03\xe8\x00\x00\x00\x00d
+ShowPreviews=false
+Sort Column=0
+
+[UserActions]
+Terminal=ghostty --noclose --workdir %d --title %t -e
+
+[ViewerModule]
+FirstRun=false
